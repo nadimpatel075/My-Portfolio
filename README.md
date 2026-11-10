@@ -24,3 +24,4 @@ A premium personal portfolio website developed using HTML, CSS and JavaScript.
 
 ## Author
 Nadim R. Patel
+Nadim R. Patel
