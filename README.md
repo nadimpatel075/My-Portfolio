@@ -23,4 +23,4 @@ A premium personal portfolio website developed using HTML, CSS and JavaScript.
 3. Run `index.html` in your browser.
 
 ## Author
-Your Name
+Nadim R. Patel
